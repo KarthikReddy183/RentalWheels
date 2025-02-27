@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957187435911",
+    "project_id": "rental-wheels-6a31c",
+    "storage_bucket": "rental-wheels-6a31c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957187435911:android:6a9b3a32ba9f89ef6a3722",
+        "android_client_info": {
+          "package_name": "com.auto.rentalwheels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqCBpt6GWdeQCfrss1mpOzSgwjfNiojeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
